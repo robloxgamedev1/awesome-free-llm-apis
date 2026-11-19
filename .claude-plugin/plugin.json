@@ -1,0 +1,8 @@
+{
+  "name": "free-llm-apis",
+  "version": "0.1.0",
+  "description": "Guide for getting and configuring free LLM API keys and free model tiers.",
+  "author": { "name": "robloxgamedev1" },
+  "repository": "https://github.com/robloxgamedev1/awesome-free-llm-apis",
+  "skills": "./"
+}

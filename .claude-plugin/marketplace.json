@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "free-llm-apis",
+  "description": "Guide for getting and configuring free LLM API keys and free model tiers.",
+  "owner": {
+    "name": "robloxgamedev1"
+  },
+  "plugins": [
+    {
+      "name": "free-llm-apis",
+      "description": "Guide for getting and configuring free LLM API keys and free model tiers.",
+      "source": "./"
+    }
+  ]
+}
